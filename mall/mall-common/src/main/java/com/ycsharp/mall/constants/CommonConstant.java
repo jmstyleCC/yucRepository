@@ -8,4 +8,6 @@ package com.ycsharp.mall.constants;
  * @Company:浪潮软件集团
  **/
 public class CommonConstant {
+
+  /****/
 }
